@@ -1,3 +1,9 @@
+# Instagram Home Feed clone
+
+![Image Alt Text](public/apple-iphone-15-black-portrait.png)
+
+## Learn More
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
