@@ -1,0 +1,27 @@
+header
+===============
+left:
+logo icon size 80px
+chevron  icon size  16px
+
+right:
+like icon size 18px
+send icon size 18px
+
+
+story
+================
+margin-top
+
+
+
+
+feed
+=================
+
+
+
+
+
+footer
+==================
