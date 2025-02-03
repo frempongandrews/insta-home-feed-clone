@@ -2,8 +2,6 @@
 
 ![Image Alt Text](public/insta-pics/screens/screenshot-1.png)
 
-![Image Alt Text](public/insta-pics/screens/screenshot-2.png)
-
 ![Image Alt Text](public/insta-pics/screens/screenshot-3.png)
 
 ## Learn More
