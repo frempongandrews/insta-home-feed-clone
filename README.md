@@ -1,6 +1,10 @@
 # Instagram Home Feed clone
 
-![Image Alt Text](public/apple-iphone-15-black-portrait.png)
+![Image Alt Text](public/insta-pics/screens/screenshot-1.png)
+
+![Image Alt Text](public/insta-pics/screens/screenshot-2.png)
+
+![Image Alt Text](public/insta-pics/screens/screenshot-3.png)
 
 ## Learn More
 
